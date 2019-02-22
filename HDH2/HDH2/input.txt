@@ -1,0 +1,4 @@
+Hello, world
+Operating system
+Computer Science and Engineering
+/Users/khuong/Documents/HDH2/HDH2/input.txt
