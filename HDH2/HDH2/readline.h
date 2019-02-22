@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #define BUFLEN 256
 int read_line(char *str);
-//int readline(FILE *fp, char *buffer, int address);
-char* readline(FILE *fp, char *buffer, int buff_len);
+int readline(FILE *fp, char *buffer, int address);
+//char* readline(FILE *fp, char *buffer, int buff_len);
 
 #endif
